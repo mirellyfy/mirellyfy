@@ -10,7 +10,6 @@
 
 
 
-
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJndHg1dDkwbW9nYTBiOW5yb3dkcWw2NGVwN3l6YTJocDF3Y2dieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.webp" alt="gif de gato" width="200" height="auto" />
 </p>
@@ -18,10 +17,17 @@
 
 ## Estatísticas do GitHub
 
+<div align="right">
+  <img src="https://media.tenor.com/-unmMc78vT4AAAAi/white-cat.gif" alt="Descrição do GIF 1" width="50" style="vertical-align: middle;">
+</div>
+
+
 ![mirellyfy's Stats](https://github-readme-stats.vercel.app/api?username=mirellyfy&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
 
 
 ![mirellyfy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=mirellyfy&style=for-the-badge&color=orange)
 
 <p align="left">
   <!-- Linguagens -->
@@ -32,6 +38,8 @@
   <img src="https://img.icons8.com/?size=80&id=8qvk2Bg2Vz7S&format=png" alt="IntelliJ" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=64&id=104289&format=png" alt="IntelliJ" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=64&id=121464&format=png" alt="IntelliJ" width="40" height="40"/>
+  
+
 
 </p>
 
