@@ -1,6 +1,11 @@
-## Mirelly Fonseca 🐈‍⬛
+<div align="center">
+  <img src="https://img.icons8.com/?size=40&id=QyZp4Pat02yK&format=png" alt="Descrição da Imagem" width="30" style="vertical-align: middle;">
+  <h2 style="display: inline;">Mirelly Fonseca</h2>
+<h3>Bem vindos ao meu perfil</h3>
+  <img src="https://img.icons8.com/?size=40&id=QyZp4Pat02yK&format=png" alt="Descrição da Imagem" width="30" style="vertical-align: middle;">
+</div>
 
-## Bem-vindo ao meu perfil! 
+ <img src="https://img.icons8.com/?size=80&id=RAgNMVJguRr9&format=png" alt="cat" />
 
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQwY2Jtd2RiMzhzNnliZnY3eW11ZG1lcmN5bG0xa2t2dGxucjllNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.webp" alt="gif de gato" width="200" height="auto" />
