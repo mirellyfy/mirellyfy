@@ -7,7 +7,6 @@
 
  <img src="https://img.icons8.com/?size=80&id=RAgNMVJguRr9&format=png" alt="cat" />
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mirellyfy)
 
 
 
