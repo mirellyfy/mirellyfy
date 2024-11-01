@@ -7,6 +7,11 @@
 
  <img src="https://img.icons8.com/?size=80&id=RAgNMVJguRr9&format=png" alt="cat" />
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mirellyfy)
+
+
+
+
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJndHg1dDkwbW9nYTBiOW5yb3dkcWw2NGVwN3l6YTJocDF3Y2dieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.webp" alt="gif de gato" width="200" height="auto" />
 </p>
