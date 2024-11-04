@@ -29,19 +29,37 @@
 
 ![](https://komarev.com/ghpvc/?username=mirellyfy&style=for-the-badge&color=orange)
 
+
+
+## Stack
 <p align="left">
-  <!-- Linguagens -->
-  <img src="https://img.icons8.com/?size=80&id=pQiP0C7IB9GU&format=png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=80&id=VhfmpIiyn97g&format=png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=48&id=52wKEsyyo49O&format=png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=48&id=EAUyKy3IwmqM&format=png" alt="VS Code" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=80&id=8qvk2Bg2Vz7S&format=png" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=64&id=104289&format=png" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=64&id=121464&format=png" alt="IntelliJ" width="40" height="40"/>
-  
-
-
+  <img src="https://img.icons8.com/?size=80&id=D2Hi2VkJSi33&format=png" alt="figma" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" alt="canva" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=64&id=1ZSHk8m9bk4p&format=png" alt="photoshop" width="50" height="50"/>
+   <img src="https://img.icons8.com/?size=80&id=YX03OUiHE3rz&format=png" alt="gimp" width="60" height="60"/>
+ 
 </p>
+
+
+## Design 
+<p align="left">
+  <img src="https://img.icons8.com/?size=80&id=snB4bDeuO6gJ&format=png" alt="figma" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=80&id=nBeuei22ZvUb&format=png" alt="canva" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=80&id=67585&format=png" alt="photoshop" width="60" height="60"/>
+   <img src="https://img.icons8.com/?size=48&id=b4Y5rs3iBGqE&format=png" alt="gimp" width="40" height="40"/>
+ 
+</p>
+
+
+ ## Redes Sociais
+<div> 
+ <p align= "left">
+  <a href="https://www.youtube.com/@MirellyFonseca-tech" target="_blank"><img src="https://img.icons8.com/?size=80&id=rhqG5aD2_6pw&format=png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mirelly-fonseca-3b5301269/" target="_blank"><img src="https://img.icons8.com/?size=80&id=67570&format=png" target="_blank"></a> 
+  <a href="https://www.instagram.com/mirellyfy/" target="_blank"><img src="https://img.icons8.com/?size=80&id=102339&format=png" target="_blank"></a> 
+  <a href="https://open.spotify.com/user/mifonsca" target="_blank"><img src="https://img.icons8.com/?size=80&id=vzJRN9S0Db0Q&format=png" target="_blank"></a> 
+ </p> 
+</div>
 
 <div align="right">
   <img src="https://media.tenor.com/FXNev31KQnIAAAAi/trackhonsool-cat.gif" alt="Descrição do GIF 1" width="50" style="vertical-align: middle;">
