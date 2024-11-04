@@ -15,8 +15,6 @@
 </p>
 
 
-## Estatísticas do GitHub
-
 <div align="right">
   <img src="https://media.tenor.com/-unmMc78vT4AAAAi/white-cat.gif" alt="Descrição do GIF 1" width="50" style="vertical-align: middle;">
 </div>
