@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://img.icons8.com/?size=40&id=QyZp4Pat02yK&format=png" alt="Descrição da Imagem" width="30" style="vertical-align: middle;">
+  <img src="https://img.icons8.com/?size=40&id=QyZp4Pat02yK&format=png" alt="" width="30" style="vertical-align: middle;">
   <h2 style="display: inline;">Mirelly Fonseca</h2>
 <h3>Bem vindos ao meu perfil</h3>
-  <img src="https://img.icons8.com/?size=40&id=QyZp4Pat02yK&format=png" alt="Descrição da Imagem" width="30" style="vertical-align: middle;">
+  <img src="https://img.icons8.com/?size=40&id=QyZp4Pat02yK&format=png" alt="" width="30" style="vertical-align: middle;">
 </div>
 
  <img src="https://img.icons8.com/?size=80&id=RAgNMVJguRr9&format=png" alt="cat" />
@@ -16,7 +16,7 @@
 
 
 <div align="right">
-  <img src="https://media.tenor.com/-unmMc78vT4AAAAi/white-cat.gif" alt="Descrição do GIF 1" width="50" style="vertical-align: middle;">
+  <img src="https://media.tenor.com/-unmMc78vT4AAAAi/white-cat.gif" alt="gato" width="50" style="vertical-align: middle;">
 </div>
 
 
@@ -31,10 +31,10 @@
 
 ## Stack
 <p align="left">
-  <img src="https://img.icons8.com/?size=80&id=D2Hi2VkJSi33&format=png" alt="figma" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" alt="canva" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=64&id=1ZSHk8m9bk4p&format=png" alt="photoshop" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=80&id=YX03OUiHE3rz&format=png" alt="gimp" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=80&id=D2Hi2VkJSi33&format=png" alt="html" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" alt="css" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=64&id=1ZSHk8m9bk4p&format=png" alt="javascript" width="50" height="50"/>
+   <img src="https://img.icons8.com/?size=80&id=YX03OUiHE3rz&format=png" alt="python" width="60" height="60"/>
  
 </p>
 
@@ -60,14 +60,14 @@
 </div>
 
 <div align="right">
-  <img src="https://media.tenor.com/FXNev31KQnIAAAAi/trackhonsool-cat.gif" alt="Descrição do GIF 1" width="50" style="vertical-align: middle;">
+  <img src="https://media.tenor.com/FXNev31KQnIAAAAi/trackhonsool-cat.gif" alt="" width="50" style="vertical-align: middle;">
 </div>
 
 <hr>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQwY2Jtd2RiMzhzNnliZnY3eW11ZG1lcmN5bG0xa2t2dGxucjllNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.webp" alt="Descrição do GIF 1" width="200" style="vertical-align: middle;">
-  <img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Descrição do GIF 2" width="200" style="vertical-align: middle;">
+  <img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="" width="200" style="vertical-align: middle;">
 </div>
 
 
