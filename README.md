@@ -7,12 +7,13 @@
 
  <img src="https://img.icons8.com/?size=80&id=RAgNMVJguRr9&format=png" alt="cat" />
 
+<div align="center">
+  <img src="https://files.oaiusercontent.com/file-KYZRPvNqrWYP1xDD8j57yn?se=2024-12-10T16%3A56%3A44Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D64f37f4b-2739-4f9e-90a4-56e030843699.webp&sig=qcXvbH2GOzlSpkRw/JaJaqSzdVaBPURILYLaswcSVsM%3D" alt="" width="250" style="vertical-align: middle;">
+</div>
 
 
 
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJndHg1dDkwbW9nYTBiOW5yb3dkcWw2NGVwN3l6YTJocDF3Y2dieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.webp" alt="gif de gato" width="200" height="auto" />
-</p>
+
 
 
 <div align="right">
@@ -62,6 +63,10 @@
 <div align="right">
   <img src="https://media.tenor.com/FXNev31KQnIAAAAi/trackhonsool-cat.gif" alt="" width="50" style="vertical-align: middle;">
 </div>
+
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJndHg1dDkwbW9nYTBiOW5yb3dkcWw2NGVwN3l6YTJocDF3Y2dieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.webp" alt="gif de gato" width="200" height="auto" />
+</p>
 
 <hr>
 
