@@ -20,14 +20,7 @@
   <img src="https://media.tenor.com/-unmMc78vT4AAAAi/white-cat.gif" alt="gato" width="50" style="vertical-align: middle;">
 </div>
 
-
-![mirellyfy's Stats](https://github-readme-stats.vercel.app/api?username=mirellyfy&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
-
 ![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
-
-
-![](https://komarev.com/ghpvc/?username=mirellyfy&style=for-the-badge&color=orange)
-
 
 
 ## Stack
