@@ -12,7 +12,9 @@
 </div>
 
 
-
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJndHg1dDkwbW9nYTBiOW5yb3dkcWw2NGVwN3l6YTJocDF3Y2dieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.webp" alt="gif de gato" width="200" height="auto" />
+</p>
 
 
 
@@ -57,9 +59,7 @@
   <img src="https://media.tenor.com/FXNev31KQnIAAAAi/trackhonsool-cat.gif" alt="" width="50" style="vertical-align: middle;">
 </div>
 
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJndHg1dDkwbW9nYTBiOW5yb3dkcWw2NGVwN3l6YTJocDF3Y2dieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.webp" alt="gif de gato" width="200" height="auto" />
-</p>
+
 
 <hr>
 
