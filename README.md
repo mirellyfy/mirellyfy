@@ -20,7 +20,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&layout=compact&theme=vue-dark)
 
-
+<div align="right">
+  <img src="https://media.tenor.com/ey19edbYNpUAAAAi/totoro.gif" alt="" width="80";">
+</div>
 
 ##
 
