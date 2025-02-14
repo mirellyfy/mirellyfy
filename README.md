@@ -48,7 +48,7 @@
 
 <p align="left">
   <img src="https://img.icons8.com/?size=48&id=CgWei7hH4lGJ&format=png" alt="html" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=48&id=Mhl1TfJLdkh5&format=png" alt="css" width="50" height="50"/>
+ 
    <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" alt="javascript" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=48&id=OvHfxNJ4T2jr&format=png" alt="html" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=48&id=2tHbkMhSLMfq&format=png" alt="css" width="50" height="50"/>
@@ -81,6 +81,7 @@
   <a href="https://www.linkedin.com/in/mirelly-fonseca-3b5301269/" target="_blank"><img src="https://img.icons8.com/?size=48&id=DYoTRhf8VVC1&format=png" target="_blank"></a> 
   <a href="https://www.instagram.com/mirellyfy/" target="_blank"><img src="https://img.icons8.com/?size=48&id=7QPcOVZoGlmf&format=png" target="_blank"></a> 
   <a href="https://open.spotify.com/user/mifonsca" target="_blank"><img src="https://img.icons8.com/?size=48&id=uReW0m8BAaaL&format=png" target="_blank"></a> 
+    <img src="https://img.icons8.com/?size=48&id=Mhl1TfJLdkh5&format=png" alt="css" width="50" height="50"/>
  </p> 
 </div>
 
