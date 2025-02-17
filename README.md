@@ -54,6 +54,7 @@
   <img src="https://img.icons8.com/?size=48&id=2tHbkMhSLMfq&format=png" alt="css" width="50" height="50"/>
    <img src="https://img.icons8.com/?size=48&id=54087&format=png" alt="html" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=48&id=YO3YqSaTOu5K&format=png" alt="css" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=80&id=l9a5tcSnBwcf&format=png" alt="css" width="40" height="40"/>
  
 </p>
 
