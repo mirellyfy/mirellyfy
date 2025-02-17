@@ -82,7 +82,8 @@
   <a href="https://www.linkedin.com/in/mirelly-fonseca-3b5301269/" target="_blank"><img src="https://img.icons8.com/?size=48&id=DYoTRhf8VVC1&format=png" target="_blank"></a> 
   <a href="https://www.instagram.com/mirellyfy/" target="_blank"><img src="https://img.icons8.com/?size=48&id=7QPcOVZoGlmf&format=png" target="_blank"></a> 
   <a href="https://open.spotify.com/user/mifonsca" target="_blank"><img src="https://img.icons8.com/?size=48&id=uReW0m8BAaaL&format=png" target="_blank"></a> 
-    <img src="https://img.icons8.com/?size=48&id=Mhl1TfJLdkh5&format=png" alt="css" width="50" height="50"/>
+  <a href="https://github.com/mirellyfy" target="_blank"><img src="https://img.icons8.com/?size=48&id=Mhl1TfJLdkh5&format=png" target="_blank"></a>
+  
  </p> 
 </div>
 
