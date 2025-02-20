@@ -4,7 +4,7 @@
 
 ```json
 {
-    "Bem vindos": 
+    "Welcome to my profile!": 
         {
             "name": "Mirelly Fonseca", 
             "course": "Computer Science",
