@@ -36,7 +36,7 @@
   
   <img src="https://img.icons8.com/?size=48&id=RwtOBojoLS2N&format=png" alt="javascript" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=48&id=0vplMYeajmDb&format=png" alt="python" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=48&id=FB7lIXx4KxIp&format=png" alt="python" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=48&id=FB7lIXx4KxIp&format=png" alt="c#" width="50" height="50"/>
  
 </p>
 
@@ -47,14 +47,13 @@
 ```
 
 <p align="left">
-  <img src="https://img.icons8.com/?size=48&id=CgWei7hH4lGJ&format=png" alt="html" width="50" height="50"/>
- 
-   <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=48&id=CgWei7hH4lGJ&format=png" alt="git" width="50" height="50"/>
+   <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" alt="tp" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=48&id=OvHfxNJ4T2jr&format=png" alt="html" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=48&id=2tHbkMhSLMfq&format=png" alt="css" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=48&id=54087&format=png" alt="html" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=48&id=YO3YqSaTOu5K&format=png" alt="css" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=80&id=l9a5tcSnBwcf&format=png" alt="css" width="40" height="40"/>
+   <img src="https://img.icons8.com/?size=48&id=54087&format=png" alt="node" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=48&id=YO3YqSaTOu5K&format=png" alt="vite" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=80&id=l9a5tcSnBwcf&format=png" alt="angular" width="40" height="40"/>
  
 </p>
 
