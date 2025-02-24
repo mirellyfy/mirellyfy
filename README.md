@@ -16,7 +16,7 @@
 ```
 ##
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=mirellyfy&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=10" alt="readme stats" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&layout=compact&theme=vue-dark)
 
