@@ -18,12 +18,12 @@
 ```
 <hr>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mirellyfy&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirellyfy&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=5" alt="readme stats" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&layout=compact&theme=vue-dark" />
   
 <p align="right">
-  <img src="https://media.tenor.com/ey19edbYNpUAAAAi/totoro.gif" alt="Descrição do GIF" width="70">
+  <img src="https://media.tenor.com/vEKkV3F08U0AAAAi/creucat-creu.gif" alt="Descrição do GIF" width="70">
 </p>
 
 
