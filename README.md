@@ -86,3 +86,6 @@
 [![Texto alternativo da imagem](https://img.icons8.com/?size=48&id=uReW0m8BAaaL&format=png)](https://open.spotify.com/user/mifonsca)
 [![Texto alternativo da imagem](https://img.icons8.com/?size=48&id=DYoTRhf8VVC1&format=png)](https://www.linkedin.com/in/mirelly-fonseca-3b5301269/)
 
+<p align="center">
+  <img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Descrição do GIF" width="150">
+</p>
