@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://img.icons8.com/?size=50&id=2Q20ppfWneqT&format=png" alt="Minha Imagem" width="30">
+  <img src="https://media2.giphy.com/media/rS6hNEBJYqy3Tfo9yS/giphy-downsized-medium.gif" alt="Minha Imagem" width="100">
 </p>
-<hr>
+
+
+
 
 
 ```json
@@ -17,14 +19,12 @@
 }
 ```
 <hr>
-
-
   <img src="https://github-readme-stats.vercel.app/api?username=mirellyfy&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=5" alt="readme stats" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&layout=compact&theme=vue-dark" />
   
 <p align="right">
-  <img src="https://media.tenor.com/vEKkV3F08U0AAAAi/creucat-creu.gif" alt="Descrição do GIF" width="70">
+  <img src="https://i.imgur.com/0q1nRF0.gif" alt="Minha Imagem" width="200">
 </p>
 
 ##
@@ -87,5 +87,8 @@
 [![Texto alternativo da imagem](https://img.icons8.com/?size=48&id=DYoTRhf8VVC1&format=png)](https://www.linkedin.com/in/mirelly-fonseca-3b5301269/)
 
 <p align="center">
-  <img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Descrição do GIF" width="150">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Descrição do GIF" width="100">
 </p>
+
+
+
