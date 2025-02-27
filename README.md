@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&layout=compact&theme=vue-dark" />
   
 <p align="right">
-  <img src="https://i.imgur.com/0q1nRF0.gif" alt="Minha Imagem" width="200">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2046041-a08f-46bd-85d1-27ffbe7b4585/dbo9hr9-d1c0ac4a-669b-4ff3-b44b-6573079f1867.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ2MDQxLWEwOGYtNDZiZC04NWQxLTI3ZmZiZTdiNDU4NVwvZGJvOWhyOS1kMWMwYWM0YS02NjliLTRmZjMtYjQ0Yi02NTczMDc5ZjE4NjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.owAgL46ZfcMrK0tJ36eAYrhsbo6uST416jtUB-K1SoE" alt="Minha Imagem" width="100">
 </p>
 
 ##
@@ -86,9 +86,9 @@
 [![Texto alternativo da imagem](https://img.icons8.com/?size=48&id=uReW0m8BAaaL&format=png)](https://open.spotify.com/user/mifonsca)
 [![Texto alternativo da imagem](https://img.icons8.com/?size=48&id=DYoTRhf8VVC1&format=png)](https://www.linkedin.com/in/mirelly-fonseca-3b5301269/)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Descrição do GIF" width="100">
-</p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/rS6hNEBJYqy3Tfo9yS/giphy-downsized-medium.gif" alt="Minha Imagem" width="100">
+</p>
 
 
