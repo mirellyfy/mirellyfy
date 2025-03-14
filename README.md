@@ -70,6 +70,7 @@
   <img src="https://img.icons8.com/?size=48&id=rnFUfw9cFw1N&format=png" alt="photoshop" width="50">
   <img src="https://img.icons8.com/?size=48&id=aI0idEmvpoEZ&format=png" alt="canva" width="50">
   <img src="https://img.icons8.com/?size=48&id=b4Y5rs3iBGqE&format=png" alt="gimp" width="40">
+   <img src="https://img.icons8.com/?size=48&id=65231&format=png" alt="blender" width="40">
 </p>
 
 ##
