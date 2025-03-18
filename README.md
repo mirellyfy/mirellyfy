@@ -14,7 +14,7 @@
             "name": "mirelly fonseca",
             "age": "21",
             "course": "computer science",
-            "position": "front-end development intern"
+            "position": "front-end developer and UI Designer"
         ]
 }
 ```
