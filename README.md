@@ -22,9 +22,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mirellyfy&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=5" alt="readme stats" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&layout=compact&theme=vue-dark" />
-  
+
+ 
+ 
+
 <p align="right">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2046041-a08f-46bd-85d1-27ffbe7b4585/dbo9hr9-d1c0ac4a-669b-4ff3-b44b-6573079f1867.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ2MDQxLWEwOGYtNDZiZC04NWQxLTI3ZmZiZTdiNDU4NVwvZGJvOWhyOS1kMWMwYWM0YS02NjliLTRmZjMtYjQ0Yi02NTczMDc5ZjE4NjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.owAgL46ZfcMrK0tJ36eAYrhsbo6uST416jtUB-K1SoE" alt="Minha Imagem" width="100">
+  <img src="https://media-public.canva.com/QqTas/MAFmbVQqTas/1/tl.png" alt="Minha Imagem" width="100">
+   <img src="https://media-public.canva.com/lxumY/MAFOKSlxumY/1/tl.png" width="50">
 </p>
 
 ##
