@@ -19,7 +19,7 @@
 }
 ```
 
-<p align="center"><span style="font-family: Courier New;">Programming</span></p>
+
 
 
 <p align="center">
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" />
  </p> 
 
-<p align="center"><span style="font-family: Courier New;">Designer</span></p>
+<hr>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" width="30" />
