@@ -20,6 +20,7 @@
 ```
 
 
+<p align="center"><code>Programming</code></p>
 
 
 <p align="center">
@@ -35,6 +36,8 @@
  </p> 
 
 <hr>
+
+<p align="center"><code>Designer</code></p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" width="30" />
