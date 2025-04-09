@@ -56,3 +56,9 @@
 <p align="center">
 •
 </p> 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyfy&layout=compact&theme=transparent" alt="Top Langs">
+</div>
+
+
