@@ -46,3 +46,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="30" />
 </p> 
+
+<p align="center">
+•
+</p> 
+<p align="center">
+•
+</p> 
+<p align="center">
+•
+</p> 
